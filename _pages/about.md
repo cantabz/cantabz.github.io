@@ -19,6 +19,7 @@ News
   border-radius: 12px;
   margin: 20px 0;
 ">
+  NEWs
   <div style="width: 40%; display: flex; align-items: center;">
     <img src="/images/MCL.png" alt="描述" style="width: 100%; border-radius: 8px;">
   </div>
