@@ -9,15 +9,16 @@ redirect_from:
 
 ![](/images/temp_brain.jpg)
 
-
-<div style="display: flex; align-items: center; gap: 16px;">
-  <img src="/images/MCL.png" alt="描述" width="180">
-
-  <div>
-    <h3>  A New Paper has been Published ! </h3>
-    <p> International Journal of Coal Preparation and Utilization </p>
+<div style="display: flex; align-items: center; gap: 24px;">
+  <div style="width: 40%;">
+    <img src="/images/MCL.png" alt="描述" style="width: 100%;">
+  </div>
+  <div style="width: 60%;">
+    <h3> A New Paper has been Published ! </h3>
+    <p>International Journal of Coal Preparation and Utilization</p>
   </div>
 </div>
+
 
 
 
