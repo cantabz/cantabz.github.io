@@ -10,18 +10,6 @@ redirect_from:
 ![](/images/temp_brain.jpg)
 
 
-NEWS 
-<div style="display: flex; align-items: center; gap: 24px;">
-  <div style="width: 40%;">
-    <img src="/images/MCL.png" alt="描述" style="width: 100%;">
-  </div>
-  <div style="width: 60%;">
-    <h3> News: A New Paper has been Published on International Journal of Coal Preparation and Utilization! </h3>
-    <p></p>
-  </div>
-</div>
-
-
 <div style="
   display: flex;
   gap: 24px;
