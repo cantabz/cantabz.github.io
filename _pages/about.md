@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 <div style="display: flex; align-items: center; gap: 16px;">
-  <img src="/images/temp_brain.jpg" alt="描述" width="180">
+  <img src="/images/MCL.png" alt="描述" width="180">
 
   <div>
-    <h3>标题</h3>
-    <p>这里写右侧文字内容。</p>
+    <h3>A New Paper has been Published by International Journal of Coal Preparation and Utilization!</h3>
+    <p> </p>
   </div>
 </div>
 
