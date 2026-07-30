@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-![](/images/temp_brain.jpg)
 
-
+News
 <div style="
   display: flex;
   gap: 24px;
