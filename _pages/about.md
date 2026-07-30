@@ -14,7 +14,7 @@ redirect_from:
     <img src="/images/MCL.png" alt="描述" style="width: 100%;">
   </div>
   <div style="width: 60%;">
-    <h3> A New Paper has been Published on International Journal of Coal Preparation and Utilization! </h3>
+    <h3> News: A New Paper has been Published on International Journal of Coal Preparation and Utilization! </h3>
     <p></p>
   </div>
 </div>
