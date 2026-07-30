@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 
-News
 <div style="
   display: flex;
   gap: 24px;
