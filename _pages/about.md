@@ -28,7 +28,7 @@ redirect_from:
     border-left: 1px solid #CBD5E1;
   ">
     <h3 style="margin-top: 0;">NEWs: A New Paper has been Published on International Journal of Coal Preparation and Utilization!</h3>
-    <p style="margin-bottom: 0;"> This paper proposed a novel contrastive learning framework for the accurate coal gangue identification based on mamba structure. [Congratulations to M.Eng Haifeng Qiu on successfully GRADUATE. I also wish all co-authors success in their work and enduring prosperity in their careers.]
+    <p style="margin-bottom: 0;"> The paper entitled "MCL: Mamba-Based Contrastive Learning method for coal gangue identification" has already be available online.
     </p>
   </div>
 </div>
