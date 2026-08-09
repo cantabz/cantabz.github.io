@@ -1,0 +1,14 @@
+---
+title: "Bayesian knowledge-guided confidence aware model based on multimodal pre-trained LLMs for depression detection"
+collection: publications
+category: manuscripts
+permalink: /publication/2026-08-09-paper-20-PR
+excerpt: ''
+date: 2026-08-09
+venue: 'Pattern Recognition'
+slidesurl: ''
+paperurl: 'https://doi.org/10.1016/j.patcog.2026.114388'
+bibtexurl: '../files/paper-20-PR.bib'
+citation: 'Wang, Z., Zhai, H., Jia, T., Wang, Z., Zhang, H., Qian, K., ... & Hu, B. (2026). Bayesian knowledge-guided confidence aware model based on multimodal pre-trained LLMs for depression detection. Pattern Recognition, 114388.'
+---
+Depression detection from multimodal physiological signals remains challenging due to heterogeneous data distributions and subtle symptom expressions. Recent advances in pre-trained large language models (LLMs) provide a promising foundation for modeling complex semantic, acoustic, and physiological cues, yet their performance is often hindered by uncertainty accumulation, modality conflicts, and lack of domain priors. To address these issues, we propose a Bayesian Knowledge-guided Confidence aware model (BKCad) for robust depression detection with multimodal inputs processed by pre-trained LLMs. Specifically, BKCad first employs modality-specific pre-trained LLMs to extract high-level feature embeddings from raw EEG and speech signals. A diffusion encoder is then introduced to reconstruct and project these heterogeneous embeddings into a compact and shared latent space, reducing modality discrepancies and enhancing representation stability. On this basis, a Bayesian learning module performs posterior inference to derive Bayesian knowledge-guided feature embeddings together with modality-specific uncertain predictive factors. The Bayesian-guided representations are further refined through a cross-modal co-attention module and a dedicated fusion module to capture complementary interactions between EEG and speech. Meanwhile, the estimated uncertainty factors are jointly processed with interaction features by a multi-head confidence aware module to adaptively modulate the reliability of fused representations. The confidence-calibrated features are finally used for depression classification. Extensive subject-independent experiments demonstrate that BKCad significantly outperforms various advanced uni-modal and multimodal comparison models across multiple evaluation metrics. These findings highlight BKCad’s potential to support more reliable depression detection, particularly in scenarios requiring stable decisions under cross-subject variability. The code and dataset will be available at https://github.com/BITZHAI/BKCad
